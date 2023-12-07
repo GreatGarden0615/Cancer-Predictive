@@ -7,3 +7,5 @@
 전체 과정 : 데이터 수집 -> 데이터 가공/정제 -> 데이터 시각화 -> 데이터 분석(머신러닝) -> 분석 결과 및 결론
 
 파일 : 프로젝트 보고서.pdf, 202144055_Project.ipynb, 202144055_Project.py, Cancer.csv, Real_Income_data.csv
+
+ipynb colab 주소 : https://colab.research.google.com/github/GreatGarden0615/ProJect/blob/main/202144055_Project.ipynb
